@@ -1,6 +1,6 @@
 /**
  * Given a set of coins and a taget amount of money, this program computes the way of changing this money
- * with smallest number of coins.
+ * with the smallest number of coins.
  * @author EFE ACER
  */
 
